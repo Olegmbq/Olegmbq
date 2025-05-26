@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ALT TEXT](https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE)
+![ALT TEXT](https://raw.githubusercontent.com/Olegmbq/Olegmbq/master/IMAGE)
 <a target="_blank"
   rel="noopener noreferrer"
-  href="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+  href="https://raw.githubusercontent.com/Olegmbq/Olegmbq/master/IMAGE">
   <img alt="ALT TEXT"
-  src="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+  src="https://raw.githubusercontent.com/Olegmbq/Olegmbq/master/IMAGE">
 </a>
